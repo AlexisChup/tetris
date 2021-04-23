@@ -4,5 +4,5 @@ lib/*
 .project
 projet-f103_clone.cfg
 .svn
-appli/game*
+appli/game
 appli/run.sh
