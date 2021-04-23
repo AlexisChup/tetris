@@ -1,0 +1,6 @@
+.settings
+lib/*
+.cproject
+.project
+projet-f103_clone.cfg
+.svn
